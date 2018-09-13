@@ -20,7 +20,9 @@
 
 ！添加图片：http://5b0988e595225.cdn.sohucs.com/images/20180727/6e21e5238203435dbb12c33c81333ad6.jpeg
 
-! 添加图片 ：   hello-world/markdownPic/109951163533736197.jpg
+**添加图片方法：**https://www.jianshu.com/p/e9f18be1295d
+
+! 添加图片 ：https://github.com/Demokun/hello-world/blob/master/markdownPic/109951163533736197.jpg?raw=true
 
 
 + 无
