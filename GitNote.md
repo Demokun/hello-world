@@ -16,8 +16,8 @@
 
 4. **上传文件**
 
-  > $ git add . (添加文件)
-  $ git commit -m "提交信息"
+  > $ git add . (添加文件)   
+  $ git commit -m "提交信息"   
   $ git push -u origin master
 
 
@@ -34,6 +34,9 @@
 > $ dir
 
 3. **Delete**
-> $ git rm -r cached [file's name]
-$ git commit -m "删除信息"
+> $ git rm -r cached [file's name]  
+$ git commit -m "删除信息"  
 $ git push -u origin master
+4. **Update**
+>在本地修改文件  
+使用**add**方法添加到github 
