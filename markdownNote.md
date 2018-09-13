@@ -24,7 +24,7 @@
 
   **添加图片方法：**https://www.jianshu.com/p/e9f18be1295d
 
-  ! 添加图片 ：https://github.com/Demokun/hello-world/blob/master/markdownPic/109951163533736197.jpg?raw=true
+![aa](https://github.com/Demokun/hello-world/blob/master/markdownPic/109951163533736197.jpg?raw=true)
 
 6.
   + 无
