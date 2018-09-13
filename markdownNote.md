@@ -50,5 +50,4 @@
 https://blog.csdn.net/54powerman/article/details/70226724
 
 
-  11.
-  插入图片![哈哈](assets/markdown-img-paste-20180913142442174.png)
+  11.![aa](https://i.loli.net/2018/09/13/5b9a049bc786b.png)
