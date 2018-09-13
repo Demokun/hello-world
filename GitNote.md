@@ -38,11 +38,13 @@
 $ git commit -m "删除信息"  
 $ git push -u origin master
 4. **Update**
->在本地修改文件  
-使用**add**方法添加到github
+> https://blog.csdn.net/jobs_anfield/article/details/70998786
+
+  >在本地修改文件  
+  使用**add**方法添加到github
 5. **errors**
 
-> **$ git push -u origin master**  
+  > **$ git push -u origin master**  
 To https://github.com/Demokun/hello-world.git
  ! [rejected]        master -> master (fetch first)
 error: failed to push some refs to 'https://github.com/Demokun/hello-world.git'
