@@ -134,4 +134,30 @@
 
  > b1 = tf.get_variable("b1",[25,1],Initializer = tf.zeros_initializer())
 
- 
+## 卷积神经网络
+
+1. 卷积
+
+ > tf.nn.conv2d(X,W1,strides = [1,s,s,1],padding = 'SAME')
+
+2. 最大池化
+
+ > tf.nn.max_pool(A,ksize = [1,f,f,1],strides = [1,s,s,1],padding = 'SAME')
+
+3. relu  
+
+ > tf.nn.relu(Z)
+
+4. 展开成一维
+
+ > tf.contrib.layers.flatten(P)
+
+5. 全连接
+
+ > tf.contrib.layers.fully_connected(F,num_outputs)
+
+6. softmax交叉验证损失
+
+ > tf.nn.softmax_cross_entropy_with_logit(logits = Z3,labels = Y)
+ >
+ >tf.reduce_mean 
